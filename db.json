@@ -26,8 +26,12 @@
       "id": 1,
       "username": "ash",
       "pokemon": [
-        "bulbasaur",
-        "pikachu"
+        {
+            "id": 5,
+            "name": "charmeleon",
+            "details": "https://pokeapi.co/api/v2/pokemon/5",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5"
+        }
       ]
     }
   ],
